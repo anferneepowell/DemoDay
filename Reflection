@@ -1,0 +1,60 @@
+<!Doctype>
+
+  <html> 
+
+    <head>
+
+    <html>
+
+     <link rel="stylesheet" type="text/css" href="style.css">
+
+     <link rel="stylesheet" type="text/css" href="bootstrap.css">
+
+      </head> 
+
+       <body>
+
+       <div class="container">
+
+       <h1>Webcame Videos</h1> 
+
+      <div class="navbar"> 
+
+      <div class="navbar-inner">
+
+        <ul class="nav">
+  
+       <li class="active"><a href="About">Home</a></li>
+        
+         <li><a href="index.html>Home</a></li>
+ 
+        <li><a href="Bio">Html</a></li>
+
+        <li class="About"><a href="#">css</a></li>
+
+        <li><a href="Resume">Bootstrap</a></li> 
+
+        <li><a href="Reflection ">Github</a></li>
+
+      </ul>
+     
+       </div> 
+
+     </div> 
+
+       <h1>css</h1>
+
+     <p>Resume-My Actions is to make a great website for EveryBody to see</p>
+     
+     <P>I'm a junior at  Wendell Phillps Academy High School</p>
+     
+     <P>my Educational Level is successful but i wanted to expand to the next levels</p>
+     
+     <p>My favorite things to do during the day is Listening to music and be on the social media</p>
+                                                                            
+     
+      <img src="CSS.jpg"/>
+
+</body>
+
+</head> 
