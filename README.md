@@ -1,2 +1,0 @@
-Anfernee Powell
-==========
