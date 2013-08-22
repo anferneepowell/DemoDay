@@ -1,4 +1,4 @@
-DemoDay-
+DemoDay
 ========
 
 this is my website
